@@ -1,1 +1,3 @@
-Folder of all my articles, projects I wrote
+# Scientific writings repository
+
+This repository contains all of my articles, thesis and projects.
